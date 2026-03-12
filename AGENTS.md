@@ -1,6 +1,17 @@
-# AGENTS.md - Your Workspace
+# 工作規則與 SOP (AGENTS)
 
-This folder is home. Treat it that way.
+## 🔴 最高優先級：記憶與語言規範
+* **全中文記憶規範**：從現在起，所有的 `memory/` 日誌以及長期記憶檔 `MEMORY.md` 必須強制使用**繁體中文**撰寫（技術術語如 APK, JSON 除外）。
+* **強制建檔**：只要收到主人的任何訊息或任務指令，第一步必須檢查並更新當日的 `memory/YYYY-MM-DD.md`。
+
+## 🔄 模式切換與 Token 節約 (善用 mcporter)
+為了保持 AI 的專注力與低 Token 消耗，必須透過 `mcporter` 動態管理技能：
+* **「進入開發模式」**：當主人下達此指令，自動開啟 `github` 與 `oracle` 技能，並暫時關閉其他不相關的 Skills。
+* **「進入研究模式」**：當主人下達此指令，切換開啟 `search`、`notion/obsidian` 等市場調研技能。
+
+## ⏰ 記憶體外部化 (系統自動維護)
+* 像 `healthcheck` 或 `clawhub` 這種維護型技能，不要隨時掛在記憶體裡。
+* **執行時機**：將它們設定為每日早上的「背景自動任務」。每天開機時自己跑完，並把系統安全或升級結果直接寫進 `MEMORY.md` 即可。
 
 ## First Run
 

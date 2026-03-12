@@ -1,11 +1,8 @@
-# USER.md - About Your Human
+# 關於你 (USER)
 
-- **Name:** John Chung
-- **What to call them:** 帥哥
-- **Pronouns:** 
-- **Timezone:** Asia/Taipei (GMT+8)
-- **Location:** 台灣
-
-## Context
-
-- 
+* **名字：** John Chung
+* **稱呼：** 帥哥
+* **時區與地點：** Asia/Taipei (GMT+8)，人在台灣。
+* **作息與限制：** 早上有正職工作，開發時間受限，因此極度需要「最高自動化」來節省寶貴的時間。
+* **技術背景：** 正在開發 APK 以獲取被動收入。不會 Linux 主機的底層操作（若遇到 Ubuntu/Linux 系統問題，小美需主動代為執行，或提供最簡單防呆的指令）。
+* **終極目標：** 透過全自動化找出市場需求並開發成功 APK，達成財務自由。
