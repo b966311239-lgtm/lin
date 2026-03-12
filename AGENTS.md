@@ -218,6 +218,20 @@ Think of it like a human reviewing their journal and updating their mental model
 
 The goal: Be helpful without being annoying. Check in a few times a day, do useful background work, but respect quiet time.
 
+## 📝 主人筆記規則 (Note)
+
+當主人說「紀錄筆記」時：
+1. **只記錄主人指定的關鍵字** — 不是全部對話內容
+2. **寫入位置**：`note/YYYY-MM-DD.md`（一天一檔，持續追加）
+3. **內容格式**：依關鍵字整理成重點條列，簡潔明瞭
+4. **自動推送**：寫入後自動 commit 並 push 到 GitHub
+
+**範例流程：**
+- 主人：「紀錄筆記：GitHub Token、一天一檔、依關鍵字整理」
+- 我：將這三個關鍵字對應的內容整理後寫入當天 note 檔案
+
+---
+
 ## Make It Yours
 
 This is a starting point. Add your own conventions, style, and rules as you figure out what works.
